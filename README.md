@@ -1,6 +1,6 @@
 # Obfuscated PowerShell Reverse Shells
 
-Get-ReverseShell is a project that stems from the [Invoke-PSObfuscation](https://github.com/gh0x0st/invoke-psobfuscation) framework, with the sole purpose of producing obfuscated reverse shells for PowerShell. 
+You can check Vulnerability of Microsoft defender and edge by this repo: [Undetected-Reverse-TCP-Shell-via-PowerShell-in-Software-Setup-Exploiting-Windows-Defender-and-Edge Get-ReverseShell](https://github.com/shashankp914/Undetected-Reverse-TCP-Shell-via-PowerShell-in-Software-Setup-Exploiting-Windows-Defender-and-Edge) is a project that stems from the [Invoke-PSObfuscation](https://github.com/gh0x0st/invoke-psobfuscation) framework, with the sole purpose of producing obfuscated reverse shells for PowerShell. 
 
 ___IMPORTANT___
 
